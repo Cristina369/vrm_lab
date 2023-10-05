@@ -1,0 +1,4 @@
+CollisionShape3D
+RigidBody3D
+DirectionalLight3D
+CSGBox3D

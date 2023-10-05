@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dxgbuohi2ck7e"
+path="res://.godot/imported/uploads_files_2031829_abciuppa_sideboards_006.obj-ddc43ebb32af60abe8c64612b01a19aa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_2031829_abciuppa_sideboards_006.obj-ddc43ebb32af60abe8c64612b01a19aa.mesh"]
+
+source_file="res://uploads_files_2031829_abciuppa_sideboards_006.obj"
+dest_files=["res://.godot/imported/uploads_files_2031829_abciuppa_sideboards_006.obj-ddc43ebb32af60abe8c64612b01a19aa.mesh", "res://.godot/imported/uploads_files_2031829_abciuppa_sideboards_006.obj-ddc43ebb32af60abe8c64612b01a19aa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

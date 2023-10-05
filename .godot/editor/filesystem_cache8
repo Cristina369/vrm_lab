@@ -1,0 +1,33 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1696510595
+Books_01_Verylow.obj::Mesh::4619379894564720516::1696506429::1696506429::1::::<><>::
+Books_01_Verylow_Color.png::CompressedTexture2D::2067176290581436224::1696506744::1696506751::1::::<><>::
+Books_02.obj::Mesh::6844516459120045310::1696507206::1696507208::1::::<><>::
+Books_02_VeryLow_Color.png::CompressedTexture2D::7925010937047084775::1696507359::1696507364::1::::<><>::
+Book_01.jpg::CompressedTexture2D::2977318403140290165::1696506668::1696506716::1::::<><>::
+Book_02.jpg::CompressedTexture2D::39141081096276003::1696507377::1696507418::1::::<><>::
+Candle__corona.obj::Mesh::2637885750641481260::1696497592::1696497593::1::::<><>::
+CB2_Dauphine_Floor_Lamp.obj::Mesh::7471370957216258952::1696508474::1696508475::1::::<><>::
+Fabric30_AO.jpg::CompressedTexture2D::7528576267297084588::1696503510::1696503539::1::::<><>::
+Fabric30_col.jpg::CompressedTexture2D::6564232938050774346::1696503802::1696503826::1::::<><>::
+Fabric30_rgh.jpg::CompressedTexture2D::4414313617003313845::1696503583::1696503603::1::::<><>::
+Fabric 01_baseColor.jpg::CompressedTexture2D::5009921619467188150::1696501489::1696501517::1::::<><>::
+icon.svg::CompressedTexture2D::1868452056004367991::1696356200::1696356222::1::::<><>::
+Lab1.tscn::PackedScene::4197797698746195927::1696510572::0::1::::<><>::uid://c0hwdbttla5ne::::res://Plaster_02_diffuse.jpg<>uid://dbenojxmc76wv::::res://TexturesCom_Wood_ParquetFiveFinger_512_albedo.jpg<>uid://d14qb0crrrr8p::::res://TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg<>uid://bblyfpcglkgpm::::res://uploads_files_618522_OXON+COPPER.obj<>uid://c5rehljokql84::::res://TexturesCom_Paint_Chipped_512_albedo.jpg<>uid://vhse7hd36fup::::res://TexturesCom_Paint_Chipped_512_roughness.jpg<>uid://caqarleurnot7::::res://RDeltaa.obj<>uid://cw5wc163bjrrf::::res://_0006_Pink_2.jpg<>uid://dxgbuohi2ck7e::::res://uploads_files_2031829_abciuppa_sideboards_006.obj<>uid://bdt2ufn4fvkx5::::res://Candle__corona.obj<>uid://bs022oncon8qc::::res://Plaster_02_bump.jpg<>uid://dekjb5337imgn::::res://uploads_files_4140627_koltuk1.obj<>uid://cdm3xa0jx33eo::::res://Fabric 01_baseColor.jpg<>uid://c6muqkvi06m2v::::res://sofa_obj.obj<>uid://clrh34o2bcxly::::res://sweater_alutaroma_roughness.png<>uid://dfi5s0fyrxkdw::::res://Fabric30_AO.jpg<>uid://4pmdd03hy7y7::::res://Books_01_Verylow_Color.png<>uid://b62wrn3hoxrjw::::res://Books_01_Verylow.obj<>uid://s7wa7s23ejr::::res://Book_02.jpg<>uid://c4rsgld5shexi::::res://Books_02.obj<>uid://depgngvje8kyi::::res://CB2_Dauphine_Floor_Lamp.obj<>uid://bqa4ckv8mkmwy::::res://material_034_diffuseOriginal.jpg
+material_034_ao.jpg::CompressedTexture2D::7808030333172922840::1696510486::1696509007::1::::<><>::
+material_034_diffuseOriginal.jpg::CompressedTexture2D::3511207105469863332::1696510476::1696510524::1::::<><>::
+Plaster_02_bump.jpg::CompressedTexture2D::3703117643788793710::1696498211::1696498349::1::::<><>::
+Plaster_02_diffuse.jpg::CompressedTexture2D::6543354316590648966::1696498211::1696498492::1::::<><>::
+RDeltaa.obj::Mesh::4805902354815565014::1696455347::1696456022::1::::<><>::
+sofa_obj.obj::Mesh::6974711523844250147::1696503382::1696503383::1::::<><>::
+sweater_alutaroma_roughness.png::CompressedTexture2D::5580489636434891242::1696504828::1696504877::1::::<><>::
+TexturesCom_Paint_Chipped_512_albedo.jpg::CompressedTexture2D::6913857059184783307::1696447205::1696447422::1::::<><>::
+TexturesCom_Paint_Chipped_512_roughness.jpg::CompressedTexture2D::1489518101458298531::1696447205::1696447445::1::::<><>::
+TexturesCom_Wood_ParquetFiveFinger_512_albedo.jpg::CompressedTexture2D::7238523236544052189::1696359470::1696359474::1::::<><>::
+TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg::CompressedTexture2D::9045013515183218285::1696359502::1696359504::1::::<><>::
+uploads_files_618522_OXON+COPPER.obj::Mesh::2480784610649284322::1696497234::1696445875::1::::<><>::
+uploads_files_2031829_abciuppa_sideboards_006.obj::Mesh::8786088900689459692::1696496966::1696456566::1::::<><>::
+uploads_files_2870715_Book+1+OBJ.obj::Mesh::4914141614219208811::1696503158::1696503158::1::::<><>::
+uploads_files_4140627_koltuk1.obj::Mesh::7461211062171144649::1696500871::1696500873::1::::<><>::
+Wood_05_4K_Roughness.png::CompressedTexture2D::5461590014370483973::1696456817::1696456838::1::::<><>::
+_0006_Pink_2.jpg::CompressedTexture2D::6380268020243322659::1696455347::1696455658::1::::<><>::

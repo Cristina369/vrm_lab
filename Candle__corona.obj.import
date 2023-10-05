@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bdt2ufn4fvkx5"
+path="res://.godot/imported/Candle__corona.obj-f0d652941484189b59ec51083d6d1be0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Candle__corona.obj-f0d652941484189b59ec51083d6d1be0.mesh"]
+
+source_file="res://Candle__corona.obj"
+dest_files=["res://.godot/imported/Candle__corona.obj-f0d652941484189b59ec51083d6d1be0.mesh", "res://.godot/imported/Candle__corona.obj-f0d652941484189b59ec51083d6d1be0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

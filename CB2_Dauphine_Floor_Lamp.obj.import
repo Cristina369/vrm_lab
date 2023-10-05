@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://depgngvje8kyi"
+path="res://.godot/imported/CB2_Dauphine_Floor_Lamp.obj-6947b133ab61e9e866e9ca315f5ad198.mesh"
+
+[deps]
+
+files=["res://.godot/imported/CB2_Dauphine_Floor_Lamp.obj-6947b133ab61e9e866e9ca315f5ad198.mesh"]
+
+source_file="res://CB2_Dauphine_Floor_Lamp.obj"
+dest_files=["res://.godot/imported/CB2_Dauphine_Floor_Lamp.obj-6947b133ab61e9e866e9ca315f5ad198.mesh", "res://.godot/imported/CB2_Dauphine_Floor_Lamp.obj-6947b133ab61e9e866e9ca315f5ad198.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

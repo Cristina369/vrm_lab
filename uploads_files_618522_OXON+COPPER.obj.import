@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bblyfpcglkgpm"
+path="res://.godot/imported/uploads_files_618522_OXON+COPPER.obj-fb4a32f9c298d8c4b961552345507953.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_618522_OXON+COPPER.obj-fb4a32f9c298d8c4b961552345507953.mesh"]
+
+source_file="res://uploads_files_618522_OXON+COPPER.obj"
+dest_files=["res://.godot/imported/uploads_files_618522_OXON+COPPER.obj-fb4a32f9c298d8c4b961552345507953.mesh", "res://.godot/imported/uploads_files_618522_OXON+COPPER.obj-fb4a32f9c298d8c4b961552345507953.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
