@@ -1,33 +1,106 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1696510595
-Books_01_Verylow.obj::Mesh::4619379894564720516::1696506429::1696506429::1::::<><>::
-Books_01_Verylow_Color.png::CompressedTexture2D::2067176290581436224::1696506744::1696506751::1::::<><>::
-Books_02.obj::Mesh::6844516459120045310::1696507206::1696507208::1::::<><>::
-Books_02_VeryLow_Color.png::CompressedTexture2D::7925010937047084775::1696507359::1696507364::1::::<><>::
-Book_01.jpg::CompressedTexture2D::2977318403140290165::1696506668::1696506716::1::::<><>::
-Book_02.jpg::CompressedTexture2D::39141081096276003::1696507377::1696507418::1::::<><>::
-Candle__corona.obj::Mesh::2637885750641481260::1696497592::1696497593::1::::<><>::
-CB2_Dauphine_Floor_Lamp.obj::Mesh::7471370957216258952::1696508474::1696508475::1::::<><>::
-Fabric30_AO.jpg::CompressedTexture2D::7528576267297084588::1696503510::1696503539::1::::<><>::
-Fabric30_col.jpg::CompressedTexture2D::6564232938050774346::1696503802::1696503826::1::::<><>::
-Fabric30_rgh.jpg::CompressedTexture2D::4414313617003313845::1696503583::1696503603::1::::<><>::
-Fabric 01_baseColor.jpg::CompressedTexture2D::5009921619467188150::1696501489::1696501517::1::::<><>::
-icon.svg::CompressedTexture2D::1868452056004367991::1696356200::1696356222::1::::<><>::
-Lab1.tscn::PackedScene::4197797698746195927::1696510572::0::1::::<><>::uid://c0hwdbttla5ne::::res://Plaster_02_diffuse.jpg<>uid://dbenojxmc76wv::::res://TexturesCom_Wood_ParquetFiveFinger_512_albedo.jpg<>uid://d14qb0crrrr8p::::res://TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg<>uid://bblyfpcglkgpm::::res://uploads_files_618522_OXON+COPPER.obj<>uid://c5rehljokql84::::res://TexturesCom_Paint_Chipped_512_albedo.jpg<>uid://vhse7hd36fup::::res://TexturesCom_Paint_Chipped_512_roughness.jpg<>uid://caqarleurnot7::::res://RDeltaa.obj<>uid://cw5wc163bjrrf::::res://_0006_Pink_2.jpg<>uid://dxgbuohi2ck7e::::res://uploads_files_2031829_abciuppa_sideboards_006.obj<>uid://bdt2ufn4fvkx5::::res://Candle__corona.obj<>uid://bs022oncon8qc::::res://Plaster_02_bump.jpg<>uid://dekjb5337imgn::::res://uploads_files_4140627_koltuk1.obj<>uid://cdm3xa0jx33eo::::res://Fabric 01_baseColor.jpg<>uid://c6muqkvi06m2v::::res://sofa_obj.obj<>uid://clrh34o2bcxly::::res://sweater_alutaroma_roughness.png<>uid://dfi5s0fyrxkdw::::res://Fabric30_AO.jpg<>uid://4pmdd03hy7y7::::res://Books_01_Verylow_Color.png<>uid://b62wrn3hoxrjw::::res://Books_01_Verylow.obj<>uid://s7wa7s23ejr::::res://Book_02.jpg<>uid://c4rsgld5shexi::::res://Books_02.obj<>uid://depgngvje8kyi::::res://CB2_Dauphine_Floor_Lamp.obj<>uid://bqa4ckv8mkmwy::::res://material_034_diffuseOriginal.jpg
-material_034_ao.jpg::CompressedTexture2D::7808030333172922840::1696510486::1696509007::1::::<><>::
-material_034_diffuseOriginal.jpg::CompressedTexture2D::3511207105469863332::1696510476::1696510524::1::::<><>::
-Plaster_02_bump.jpg::CompressedTexture2D::3703117643788793710::1696498211::1696498349::1::::<><>::
-Plaster_02_diffuse.jpg::CompressedTexture2D::6543354316590648966::1696498211::1696498492::1::::<><>::
-RDeltaa.obj::Mesh::4805902354815565014::1696455347::1696456022::1::::<><>::
-sofa_obj.obj::Mesh::6974711523844250147::1696503382::1696503383::1::::<><>::
-sweater_alutaroma_roughness.png::CompressedTexture2D::5580489636434891242::1696504828::1696504877::1::::<><>::
-TexturesCom_Paint_Chipped_512_albedo.jpg::CompressedTexture2D::6913857059184783307::1696447205::1696447422::1::::<><>::
-TexturesCom_Paint_Chipped_512_roughness.jpg::CompressedTexture2D::1489518101458298531::1696447205::1696447445::1::::<><>::
-TexturesCom_Wood_ParquetFiveFinger_512_albedo.jpg::CompressedTexture2D::7238523236544052189::1696359470::1696359474::1::::<><>::
-TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg::CompressedTexture2D::9045013515183218285::1696359502::1696359504::1::::<><>::
-uploads_files_618522_OXON+COPPER.obj::Mesh::2480784610649284322::1696497234::1696445875::1::::<><>::
-uploads_files_2031829_abciuppa_sideboards_006.obj::Mesh::8786088900689459692::1696496966::1696456566::1::::<><>::
-uploads_files_2870715_Book+1+OBJ.obj::Mesh::4914141614219208811::1696503158::1696503158::1::::<><>::
-uploads_files_4140627_koltuk1.obj::Mesh::7461211062171144649::1696500871::1696500873::1::::<><>::
-Wood_05_4K_Roughness.png::CompressedTexture2D::5461590014370483973::1696456817::1696456838::1::::<><>::
-_0006_Pink_2.jpg::CompressedTexture2D::6380268020243322659::1696455347::1696455658::1::::<><>::
+::res://::1700164223
+AnimatedCurtains.gd::GDScript::-1::1698596081::0::1::::<>Node3D<>::
+AnimationBook.gd::GDScript::-1::1700147689::0::1::::<>AnimationPlayer<>::
+AnimationPlayer.gd::GDScript::-1::1698421817::0::1::::<>AnimationPlayer<>::
+AnimationPlayerC.gd::GDScript::-1::1698596256::0::1::::<>AnimationPlayer<>::
+BMAG.jpg::CompressedTexture2D::2809073285273829176::1697983307::1697983317::1::::<><>::
+Books_01_Verylow.obj::Mesh::4619379894564720516::1696502829::1698408018::1::::<><>::
+Books_01_Verylow_Color.png::CompressedTexture2D::2067176290581436224::1696503144::1698408016::1::::<><>::
+Books_02.obj::Mesh::6844516459120045310::1696503606::1698408020::1::::<><>::
+Books_02_VeryLow_Color.png::CompressedTexture2D::7925010937047084775::1696503759::1698408016::1::::<><>::
+Book_01.jpg::CompressedTexture2D::2977318403140290165::1696503068::1698408016::1::::<><>::
+Book_02.jpg::CompressedTexture2D::39141081096276003::1696503777::1698408018::1::::<><>::
+BW2.png::CompressedTexture2D::2721918959933132142::1697980036::1698407960::1::::<><>::
+Candle__corona.obj::Mesh::2637885750641481260::1696493992::1696493993::1::::<><>::
+CB2_Dauphine_Floor_Lamp.obj::Mesh::7471370957216258952::1696504874::1696504875::1::::<><>::
+door1.obj::Mesh::7076370137903674201::1698487878::1698487878::1::::<><>::
+Door.gd::GDScript::-1::1698591754::0::1::::<>MeshInstance3D<>::
+DoorAnimation.tscn::PackedScene::5592854689445772274::1698421969::0::1::::<><>::res://AnimationPlayer.gd<>uid://dvmuwdgmihwf6
+doorway_bay.obj::Mesh::7032695845267342770::1698488091::1698488091::1::::<><>::
+Fabric30_AO.jpg::CompressedTexture2D::7528576267297084588::1696499910::1696499939::1::::<><>::
+Fabric30_col.jpg::CompressedTexture2D::6564232938050774346::1696500202::1696500226::1::::<><>::
+Fabric30_rgh.jpg::CompressedTexture2D::4414313617003313845::1696499983::1696500003::1::::<><>::
+Fabric 01_baseColor.jpg::CompressedTexture2D::5009921619467188150::1696497889::1696497917::1::::<><>::
+Floor_Material.png::CompressedTexture2D::2208180483398808781::1697977997::1697977754::1::::<><>::
+icon.svg::CompressedTexture2D::1868452056004367991::1696352600::1696352622::1::::<><>::
+InteractUI.gd::GDScript::-1::1698428456::0::1::::<>RayCast3D<>::
+iron_bump.JPG::CompressedTexture2D::3630046373251159909::1697983357::1697983364::1::::<><>::
+Lab1.tscn::PackedScene::4197797698746195927::1700155887::0::1::::<><>::uid://5igj88dphhwp::::res://Texture_loor.jpg<>uid://c0hwdbttla5ne::::res://Plaster_02_diffuse.jpg<>uid://d14qb0crrrr8p::::res://TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg<>uid://bblyfpcglkgpm::::res://uploads_files_618522_OXON+COPPER.obj<>uid://wmfn845vyt4w::::res://Paper_basecolor.png<>uid://bipw3ywn7lush::::res://Textures/Stone2_d.jpg<>uid://c5rehljokql84::::res://TexturesCom_Paint_Chipped_512_albedo.jpg<>uid://vhse7hd36fup::::res://TexturesCom_Paint_Chipped_512_roughness.jpg<>uid://caqarleurnot7::::res://RDeltaa.obj<>uid://cw5wc163bjrrf::::res://_0006_Pink_2.jpg<>uid://dxgbuohi2ck7e::::res://uploads_files_2031829_abciuppa_sideboards_006.obj<>res://RadioAnimation.gd<>uid://bdt2ufn4fvkx5::::res://Candle__corona.obj<>uid://bvpkv586s88y1::::res://Audio/guitar.mp3<>uid://bs022oncon8qc::::res://Plaster_02_bump.jpg<>uid://dekjb5337imgn::::res://uploads_files_4140627_koltuk1.obj<>uid://cdm3xa0jx33eo::::res://Fabric 01_baseColor.jpg<>uid://c6muqkvi06m2v::::res://sofa_obj.obj<>uid://clrh34o2bcxly::::res://sweater_alutaroma_roughness.png<>uid://dfi5s0fyrxkdw::::res://Fabric30_AO.jpg<>uid://4pmdd03hy7y7::::res://Books_01_Verylow_Color.png<>uid://b62wrn3hoxrjw::::res://Books_01_Verylow.obj<>uid://s7wa7s23ejr::::res://Book_02.jpg<>uid://c4rsgld5shexi::::res://Books_02.obj<>uid://depgngvje8kyi::::res://CB2_Dauphine_Floor_Lamp.obj<>uid://bqa4ckv8mkmwy::::res://material_034_diffuseOriginal.jpg<>uid://djijebmdiiplg::::res://material_034_ao.jpg<>res://SwitchLight.gd<>uid://d4g5c3n25qfn4::::res://Paper_roughness.png<>res://Door.gd<>uid://onf20fjntddj::::res://uploads_files_2135479_picture+frame+01.obj<>uid://be1fa8x3dal::::res://House/wall_window_1.obj<>uid://b4wl1herwfd68::::res://House/stairs.obj<>uid://dbpyxf6nyx648::::res://House/wall_bay.obj<>uid://4ulc0lrnfs5p::::res://House/Fabric038_4K_Color.png<>uid://ccmi0crbl4qfy::::res://House/Fabric038_4K_AmbientOcclusion.png<>uid://c7gxqc5ajt22i::::res://doorway_bay.obj<>uid://dbpfhungvwdk5::::res://House/Fabric038_4K_Roughness.png<>res://Player.gd<>uid://dytq1a27jptua::::res://House/window_bay_2.obj<>res://AnimatedCurtains.gd<>res://AnimationPlayerC.gd<>uid://ty4s7jltk6ox::::res://Animated book/Fantasy Book obj.obj<>uid://l4hs33qgie2i::::res://Animated book/cover down.jpg<>uid://raofdublxyk6::::res://Animated book/cover down 2.jpg<>uid://b1j00n2gb53i8::::res://woman 1.jpg<>uid://dfuwe8ne6llmr::::res://Animated book/page 4.jpg<>uid://250quvx81k4n::::res://Animated book/page 5.jpg<>uid://dnou143rlxjb8::::res://woman 2.jpg<>uid://cbxv6yyvvuksh::::res://woman 3.jpg<>uid://csdw7irdy7aho::::res://Animated book/cover.jpg<>uid://5mxuki3r8dnl::::res://Animated book/page 6.jpg<>uid://330wi1v56rqb::::res://woman 4.jpg<>res://AnimationBook.gd<>res://WindowAnimation.gd
+material_034_ao.jpg::CompressedTexture2D::7808030333172922840::1696506886::1696505407::1::::<><>::
+material_034_diffuseOriginal.jpg::CompressedTexture2D::3511207105469863332::1696506876::1696506924::1::::<><>::
+Paper_ambientOcclusion.png::CompressedTexture2D::7589201726715313355::1697978532::1697978578::1::::<><>::
+Paper_basecolor.png::CompressedTexture2D::1569255672832000588::1697978536::1697978552::1::::<><>::
+Paper_roughness.png::CompressedTexture2D::9208951356481147755::1697978527::1697978563::1::::<><>::
+Plaster_02_bump.jpg::CompressedTexture2D::3703117643788793710::1696494611::1696494749::1::::<><>::
+Plaster_02_diffuse.jpg::CompressedTexture2D::6543354316590648966::1696494611::1696494892::1::::<><>::
+Player.gd::GDScript::-1::1698515531::0::1::::<>CharacterBody3D<>::
+RadioAnimation.gd::GDScript::-1::1698599014::0::1::::<>MeshInstance3D<>::
+RDeltaa.obj::Mesh::4805902354815565014::1696451747::1696452422::1::::<><>::
+README.md::TextFile::-1::1700164122::0::1::::<><>::
+Second_Scene.tscn::PackedScene::1598073036888055875::1700155887::0::1::::<><>::uid://c7231ulssckht::::res://door1.obj<>uid://c7gxqc5ajt22i::::res://doorway_bay.obj<>uid://dbpyxf6nyx648::::res://House/wall_bay.obj<>uid://be1fa8x3dal::::res://House/wall_window_1.obj<>uid://bbuh40sr6q855::::res://House/bay_roof.obj<>uid://bqjj2jum6c1mi::::res://House/bay_roof_2.obj<>uid://eqqtuqvb50j0::::res://House/bay_roof_3.obj<>uid://qqs62eb75cw6::::res://House/wall_window_3.obj<>uid://poctk3ulmprw::::res://House/wall_window_4.obj<>uid://folptvnplcga::::res://House/wall_window_5.obj<>uid://cyipb1esq3nvm::::res://House/window_bay_1.obj<>uid://dst2m851fdlgo::::res://House/wall_window_8.obj<>uid://bdof30pb5b5r4::::res://House/wall_window_6.obj<>uid://chdkxlfoe2jlv::::res://House/wall_window_tall_1.obj<>uid://dytq1a27jptua::::res://House/window_bay_2.obj<>uid://dpbj3k8i41pl6::::res://House/window_bay_5.obj<>uid://db0l2ikjcb62r::::res://House/window_bay_7.obj
+sofa_obj.obj::Mesh::6974711523844250147::1696499782::1696499783::1::::<><>::
+sweater_alutaroma_roughness.png::CompressedTexture2D::5580489636434891242::1696501228::1696501277::1::::<><>::
+SwitchLight.gd::GDScript::-1::1698525431::0::1::::<>Node3D<>::
+TexturesCom_Paint_Chipped_512_albedo.jpg::CompressedTexture2D::6913857059184783307::1696443605::1696443822::1::::<><>::
+TexturesCom_Paint_Chipped_512_roughness.jpg::CompressedTexture2D::1489518101458298531::1696443605::1696443845::1::::<><>::
+TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg::CompressedTexture2D::9045013515183218285::1696355902::1696355904::1::::<><>::
+Texture_loor.jpg::CompressedTexture2D::2122562489680928351::1698412447::1698412448::1::::<><>::
+uploads_files_618522_OXON+COPPER.obj::Mesh::2480784610649284322::1696493634::1696442275::1::::<><>::
+uploads_files_2031829_abciuppa_sideboards_006.obj::Mesh::8786088900689459692::1696493366::1696452966::1::::<><>::
+uploads_files_2135479_picture+frame+01.obj::Mesh::1009833844369312195::1697979873::1698407988::1::::<><>::
+uploads_files_2870715_Book+1+OBJ.obj::Mesh::4914141614219208811::1696499558::1698408020::1::::<><>::
+uploads_files_3334414_door.obj::Mesh::5282907221247643638::1698438559::1698438560::1::::<><>::
+uploads_files_4140627_koltuk1.obj::Mesh::7461211062171144649::1696497271::1696497273::1::::<><>::
+Vintage-Door.obj::Mesh::8659254095243031001::1697975605::1697975606::1::::<><>::
+wall panel.obj::Mesh::799547183440863939::1697979330::1698407988::1::::<><>::
+WindowAnimation.gd::GDScript::-1::1700155769::0::1::::<>Node3D<>::
+woman 1.jpg::CompressedTexture2D::4231473312523696801::1697980037::1698407988::1::::<><>::
+woman 2.jpg::CompressedTexture2D::8101880644647111791::1697980037::1698407988::1::::<><>::
+woman 3.jpg::CompressedTexture2D::4891842614445471523::1697980037::1698407988::1::::<><>::
+woman 4.jpg::CompressedTexture2D::2024647872610838365::1697980037::1698407988::1::::<><>::
+Wood_05_4K_Roughness.png::CompressedTexture2D::5461590014370483973::1696453217::1696453238::1::::<><>::
+_0006_Pink_2.jpg::CompressedTexture2D::6380268020243322659::1696451747::1696452058::1::::<><>::
+::res://Animated book/::1698576546
+cover down 2.jpg::CompressedTexture2D::1194069497242011483::1698576539::1698576546::1::::<><>::
+cover down.jpg::CompressedTexture2D::832402912769375566::1698576046::1698576095::1::::<><>::
+cover.jpg::CompressedTexture2D::6043827051996895772::1698576046::1698576373::1::::<><>::
+Fantasy Book obj.obj::Mesh::1384927727476619279::1698575539::1698575557::1::::<><>::
+page 1.jpg::CompressedTexture2D::2829192099608011812::1698576075::1698576125::1::::<><>::
+page 4.jpg::CompressedTexture2D::7552838494943768157::1698576075::1698576144::1::::<><>::
+page 5.jpg::CompressedTexture2D::1958577692368351503::1698576075::1698576168::1::::<><>::
+page 6.jpg::CompressedTexture2D::2131870587789562729::1698576075::1698576161::1::::<><>::
+::res://Audio/::1698596993
+guitar.mp3::AudioStreamMP3::3891998366115283478::1698596971::1698596993::1::::<><>::
+::res://House/::1698583554
+bay_roof.obj::Mesh::2498375231089665966::1698498799::1698498799::1::::<><>::
+bay_roof_2.obj::Mesh::3528616755251487752::1698498912::1698498912::1::::<><>::
+bay_roof_3.obj::Mesh::314791896726104527::1698499018::1698499019::1::::<><>::
+Fabric038_4K_AmbientOcclusion.png::CompressedTexture2D::4938522099870407290::1698583243::1698583529::1::::<><>::
+Fabric038_4K_Color.png::CompressedTexture2D::2077436809958970667::1698583243::1698583482::1::::<><>::
+Fabric038_4K_Roughness.png::CompressedTexture2D::7260733717400403198::1698583243::1698583554::1::::<><>::
+stairs.obj::Mesh::4468028151991985011::1698506004::1698506018::1::::<><>::
+uploads_files_2914313_Blue_Curtains3.obj::Mesh::5909527273755064474::1698583017::1698583053::1::::<><>::
+wall_bay.obj::Mesh::7261915153243800975::1698498427::1698498462::1::::<><>::
+wall_window_1.obj::Mesh::2353940514612359::1698498600::1698498600::1::::<><>::
+wall_window_2.obj::Mesh::2661393739439181949::1698498676::1698498677::1::::<><>::
+wall_window_3.obj::Mesh::1157201232153374627::1698498683::1698498683::1::::<><>::
+wall_window_4.obj::Mesh::1081889876608971428::1698498690::1698498691::1::::<><>::
+wall_window_5.obj::Mesh::380541211571689212::1698498703::1698498703::1::::<><>::
+wall_window_6.obj::Mesh::2626243426698624415::1698499772::1698499773::1::::<><>::
+wall_window_7.obj::Mesh::7721252639165784359::1698499759::1698499760::1::::<><>::
+wall_window_8.obj::Mesh::8463546983025395886::1698499695::1698499712::1::::<><>::
+wall_window_9.obj::Mesh::6727636731201529822::1698499625::1698499625::1::::<><>::
+wall_window_round_1.obj::Mesh::1506711734302118091::1698499665::1698499665::1::::<><>::
+wall_window_tall_1.obj::Mesh::5271005235425472327::1698499796::1698499796::1::::<><>::
+window_bay_1.obj::Mesh::6474802550043516074::1698498722::1698498723::1::::<><>::
+window_bay_2.obj::Mesh::8884035421421298876::1698499817::1698499818::1::::<><>::
+window_bay_5.obj::Mesh::8214756115183407921::1698499881::1698499881::1::::<><>::
+window_bay_7.obj::Mesh::7281776877971206123::1698501144::1698501145::1::::<><>::
+::res://interaction/::1698423885
+::res://Textures/::1698517260
+r.jpg::::-1::0::0::0::::<><>::
+Stone2_b.jpg::::-1::0::0::0::::<><>::
+Stone2_d.jpg::CompressedTexture2D::2980284170358436019::1698516667::1698516743::1::::<><>::
+Stone2_n.jpg::CompressedTexture2D::2274608532312201576::1698516667::1698516791::1::::<><>::
+Stone2_r.jpg::::-1::0::0::0::::<><>::

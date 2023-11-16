@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bqjj2jum6c1mi"
+path="res://.godot/imported/bay_roof_2.obj-1c6635575ff1ded7198ca9acaf579f0e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/bay_roof_2.obj-1c6635575ff1ded7198ca9acaf579f0e.mesh"]
+
+source_file="res://House/bay_roof_2.obj"
+dest_files=["res://.godot/imported/bay_roof_2.obj-1c6635575ff1ded7198ca9acaf579f0e.mesh", "res://.godot/imported/bay_roof_2.obj-1c6635575ff1ded7198ca9acaf579f0e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
