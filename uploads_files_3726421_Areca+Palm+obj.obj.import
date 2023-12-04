@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://vmlcoy3dsbd4"
+path="res://.godot/imported/uploads_files_3726421_Areca+Palm+obj.obj-43c5f9d7f482a28d1cc518bbe7479344.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_3726421_Areca+Palm+obj.obj-43c5f9d7f482a28d1cc518bbe7479344.mesh"]
+
+source_file="res://uploads_files_3726421_Areca+Palm+obj.obj"
+dest_files=["res://.godot/imported/uploads_files_3726421_Areca+Palm+obj.obj-43c5f9d7f482a28d1cc518bbe7479344.mesh", "res://.godot/imported/uploads_files_3726421_Areca+Palm+obj.obj-43c5f9d7f482a28d1cc518bbe7479344.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

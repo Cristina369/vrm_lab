@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dbym7pugptjga"
+path="res://.godot/imported/water-pouring-out-of-bucket-96841 (mp3cut.net).mp3-f8be7bd8b2328948d125c6973a172c85.mp3str"
+
+[deps]
+
+source_file="res://Waering_C/water-pouring-out-of-bucket-96841 (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/water-pouring-out-of-bucket-96841 (mp3cut.net).mp3-f8be7bd8b2328948d125c6973a172c85.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

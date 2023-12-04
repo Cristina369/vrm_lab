@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0mtqgtxnl5qq"
+path="res://.godot/imported/concrete-footsteps-1-6265 (mp3cut.net).mp3-f69264c7e7a4cb5093a6ed05fd79fece.mp3str"
+
+[deps]
+
+source_file="res://Audio/concrete-footsteps-1-6265 (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/concrete-footsteps-1-6265 (mp3cut.net).mp3-f69264c7e7a4cb5093a6ed05fd79fece.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

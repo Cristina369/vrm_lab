@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dqmduxo0ehexw"
+path="res://.godot/imported/dorm-door-opening-6038 (mp3cut.net).mp3-e895c53be73db73606c240b31c9ac9f3.mp3str"
+
+[deps]
+
+source_file="res://Audio/dorm-door-opening-6038 (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/dorm-door-opening-6038 (mp3cut.net).mp3-e895c53be73db73606c240b31c9ac9f3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

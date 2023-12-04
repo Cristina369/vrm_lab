@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1700164223
+::res://::1701725984
 AnimatedCurtains.gd::GDScript::-1::1698596081::0::1::::<>Node3D<>::
-AnimationBook.gd::GDScript::-1::1700147689::0::1::::<>AnimationPlayer<>::
+AnimationBook.gd::GDScript::-1::1701725711::0::1::::<>AnimationPlayer<>::
 AnimationPlayer.gd::GDScript::-1::1698421817::0::1::::<>AnimationPlayer<>::
 AnimationPlayerC.gd::GDScript::-1::1698596256::0::1::::<>AnimationPlayer<>::
 BMAG.jpg::CompressedTexture2D::2809073285273829176::1697983307::1697983317::1::::<><>::
@@ -15,7 +15,7 @@ BW2.png::CompressedTexture2D::2721918959933132142::1697980036::1698407960::1::::
 Candle__corona.obj::Mesh::2637885750641481260::1696493992::1696493993::1::::<><>::
 CB2_Dauphine_Floor_Lamp.obj::Mesh::7471370957216258952::1696504874::1696504875::1::::<><>::
 door1.obj::Mesh::7076370137903674201::1698487878::1698487878::1::::<><>::
-Door.gd::GDScript::-1::1698591754::0::1::::<>MeshInstance3D<>::
+Door.gd::GDScript::-1::1701102340::0::1::::<>MeshInstance3D<>::
 DoorAnimation.tscn::PackedScene::5592854689445772274::1698421969::0::1::::<><>::res://AnimationPlayer.gd<>uid://dvmuwdgmihwf6
 doorway_bay.obj::Mesh::7032695845267342770::1698488091::1698488091::1::::<><>::
 Fabric30_AO.jpg::CompressedTexture2D::7528576267297084588::1696499910::1696499939::1::::<><>::
@@ -26,7 +26,7 @@ Floor_Material.png::CompressedTexture2D::2208180483398808781::1697977997::169797
 icon.svg::CompressedTexture2D::1868452056004367991::1696352600::1696352622::1::::<><>::
 InteractUI.gd::GDScript::-1::1698428456::0::1::::<>RayCast3D<>::
 iron_bump.JPG::CompressedTexture2D::3630046373251159909::1697983357::1697983364::1::::<><>::
-Lab1.tscn::PackedScene::4197797698746195927::1700155887::0::1::::<><>::uid://5igj88dphhwp::::res://Texture_loor.jpg<>uid://c0hwdbttla5ne::::res://Plaster_02_diffuse.jpg<>uid://d14qb0crrrr8p::::res://TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg<>uid://bblyfpcglkgpm::::res://uploads_files_618522_OXON+COPPER.obj<>uid://wmfn845vyt4w::::res://Paper_basecolor.png<>uid://bipw3ywn7lush::::res://Textures/Stone2_d.jpg<>uid://c5rehljokql84::::res://TexturesCom_Paint_Chipped_512_albedo.jpg<>uid://vhse7hd36fup::::res://TexturesCom_Paint_Chipped_512_roughness.jpg<>uid://caqarleurnot7::::res://RDeltaa.obj<>uid://cw5wc163bjrrf::::res://_0006_Pink_2.jpg<>uid://dxgbuohi2ck7e::::res://uploads_files_2031829_abciuppa_sideboards_006.obj<>res://RadioAnimation.gd<>uid://bdt2ufn4fvkx5::::res://Candle__corona.obj<>uid://bvpkv586s88y1::::res://Audio/guitar.mp3<>uid://bs022oncon8qc::::res://Plaster_02_bump.jpg<>uid://dekjb5337imgn::::res://uploads_files_4140627_koltuk1.obj<>uid://cdm3xa0jx33eo::::res://Fabric 01_baseColor.jpg<>uid://c6muqkvi06m2v::::res://sofa_obj.obj<>uid://clrh34o2bcxly::::res://sweater_alutaroma_roughness.png<>uid://dfi5s0fyrxkdw::::res://Fabric30_AO.jpg<>uid://4pmdd03hy7y7::::res://Books_01_Verylow_Color.png<>uid://b62wrn3hoxrjw::::res://Books_01_Verylow.obj<>uid://s7wa7s23ejr::::res://Book_02.jpg<>uid://c4rsgld5shexi::::res://Books_02.obj<>uid://depgngvje8kyi::::res://CB2_Dauphine_Floor_Lamp.obj<>uid://bqa4ckv8mkmwy::::res://material_034_diffuseOriginal.jpg<>uid://djijebmdiiplg::::res://material_034_ao.jpg<>res://SwitchLight.gd<>uid://d4g5c3n25qfn4::::res://Paper_roughness.png<>res://Door.gd<>uid://onf20fjntddj::::res://uploads_files_2135479_picture+frame+01.obj<>uid://be1fa8x3dal::::res://House/wall_window_1.obj<>uid://b4wl1herwfd68::::res://House/stairs.obj<>uid://dbpyxf6nyx648::::res://House/wall_bay.obj<>uid://4ulc0lrnfs5p::::res://House/Fabric038_4K_Color.png<>uid://ccmi0crbl4qfy::::res://House/Fabric038_4K_AmbientOcclusion.png<>uid://c7gxqc5ajt22i::::res://doorway_bay.obj<>uid://dbpfhungvwdk5::::res://House/Fabric038_4K_Roughness.png<>res://Player.gd<>uid://dytq1a27jptua::::res://House/window_bay_2.obj<>res://AnimatedCurtains.gd<>res://AnimationPlayerC.gd<>uid://ty4s7jltk6ox::::res://Animated book/Fantasy Book obj.obj<>uid://l4hs33qgie2i::::res://Animated book/cover down.jpg<>uid://raofdublxyk6::::res://Animated book/cover down 2.jpg<>uid://b1j00n2gb53i8::::res://woman 1.jpg<>uid://dfuwe8ne6llmr::::res://Animated book/page 4.jpg<>uid://250quvx81k4n::::res://Animated book/page 5.jpg<>uid://dnou143rlxjb8::::res://woman 2.jpg<>uid://cbxv6yyvvuksh::::res://woman 3.jpg<>uid://csdw7irdy7aho::::res://Animated book/cover.jpg<>uid://5mxuki3r8dnl::::res://Animated book/page 6.jpg<>uid://330wi1v56rqb::::res://woman 4.jpg<>res://AnimationBook.gd<>res://WindowAnimation.gd
+Lab1.tscn::PackedScene::4197797698746195927::1701725984::0::1::::<><>::uid://5igj88dphhwp::::res://Texture_loor.jpg<>uid://c0hwdbttla5ne::::res://Plaster_02_diffuse.jpg<>uid://d14qb0crrrr8p::::res://TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg<>uid://bblyfpcglkgpm::::res://uploads_files_618522_OXON+COPPER.obj<>uid://wmfn845vyt4w::::res://Paper_basecolor.png<>uid://bipw3ywn7lush::::res://Textures/Stone2_d.jpg<>uid://c5rehljokql84::::res://TexturesCom_Paint_Chipped_512_albedo.jpg<>uid://vhse7hd36fup::::res://TexturesCom_Paint_Chipped_512_roughness.jpg<>uid://caqarleurnot7::::res://RDeltaa.obj<>uid://cw5wc163bjrrf::::res://_0006_Pink_2.jpg<>uid://dxgbuohi2ck7e::::res://uploads_files_2031829_abciuppa_sideboards_006.obj<>res://RadioAnimation.gd<>uid://bdt2ufn4fvkx5::::res://Candle__corona.obj<>uid://bvpkv586s88y1::::res://Audio/guitar.mp3<>uid://bs022oncon8qc::::res://Plaster_02_bump.jpg<>uid://dekjb5337imgn::::res://uploads_files_4140627_koltuk1.obj<>uid://cdm3xa0jx33eo::::res://Fabric 01_baseColor.jpg<>uid://c6muqkvi06m2v::::res://sofa_obj.obj<>uid://clrh34o2bcxly::::res://sweater_alutaroma_roughness.png<>uid://dfi5s0fyrxkdw::::res://Fabric30_AO.jpg<>uid://4pmdd03hy7y7::::res://Books_01_Verylow_Color.png<>uid://b62wrn3hoxrjw::::res://Books_01_Verylow.obj<>uid://s7wa7s23ejr::::res://Book_02.jpg<>uid://c4rsgld5shexi::::res://Books_02.obj<>uid://depgngvje8kyi::::res://CB2_Dauphine_Floor_Lamp.obj<>uid://bqa4ckv8mkmwy::::res://material_034_diffuseOriginal.jpg<>uid://djijebmdiiplg::::res://material_034_ao.jpg<>res://SwitchLight.gd<>uid://d4g5c3n25qfn4::::res://Paper_roughness.png<>res://Door.gd<>uid://onf20fjntddj::::res://uploads_files_2135479_picture+frame+01.obj<>uid://bqo8r86t5qyhk::::res://Audio/light-switch-156813.mp3<>uid://c0mtqgtxnl5qq::::res://Audio/concrete-footsteps-1-6265 (mp3cut.net).mp3<>uid://be1fa8x3dal::::res://House/wall_window_1.obj<>uid://b4wl1herwfd68::::res://House/stairs.obj<>uid://dqmduxo0ehexw::::res://Audio/dorm-door-opening-6038 (mp3cut.net).mp3<>uid://dbpyxf6nyx648::::res://House/wall_bay.obj<>uid://dm5a8yxrxcvb1::::res://Audio/soft-ambience-of-street-from-interior-terraced-street-leeds-uk-autumn-22607.mp3<>uid://4ulc0lrnfs5p::::res://House/Fabric038_4K_Color.png<>uid://ccmi0crbl4qfy::::res://House/Fabric038_4K_AmbientOcclusion.png<>uid://c7gxqc5ajt22i::::res://doorway_bay.obj<>uid://dbpfhungvwdk5::::res://House/Fabric038_4K_Roughness.png<>res://Player.gd<>uid://dytq1a27jptua::::res://House/window_bay_2.obj<>res://AnimatedCurtains.gd<>res://AnimationPlayerC.gd<>uid://ty4s7jltk6ox::::res://Animated book/Fantasy Book obj.obj<>uid://l4hs33qgie2i::::res://Animated book/cover down.jpg<>uid://raofdublxyk6::::res://Animated book/cover down 2.jpg<>uid://b1j00n2gb53i8::::res://woman 1.jpg<>uid://dfuwe8ne6llmr::::res://Animated book/page 4.jpg<>uid://250quvx81k4n::::res://Animated book/page 5.jpg<>uid://dnou143rlxjb8::::res://woman 2.jpg<>uid://cbxv6yyvvuksh::::res://woman 3.jpg<>uid://csdw7irdy7aho::::res://Animated book/cover.jpg<>uid://5mxuki3r8dnl::::res://Animated book/page 6.jpg<>uid://330wi1v56rqb::::res://woman 4.jpg<>res://AnimationBook.gd<>res://WindowAnimation.gd<>uid://cbgg4pmhu0fo5::::res://Audio/mais-objetos-caindo-na-madeira-38917.mp3<>uid://m1okntvlk5ci::::res://Audio/gentle-gust-108966.mp3<>uid://dhmg6wd48eerm::::res://Audio/opening-window-107097.mp3<>uid://btojxg8ivimfj::::res://Waering_C/paper-flutter.mp3<>uid://dyklh6vhgtce::::res://uploads_files_4271974_MZRa_Monstera_B02.obj<>uid://canegid4w53px::::res://Plant/T_MZRa_Monstera_B02a_BC.png<>uid://d2waik24wrjf2::::res://Plant/T_MZRa_Monstera_B02a_O.png<>uid://bilh58qr3juc8::::res://Plant/T_MZRa_Monstera_B02a_R.png<>uid://tp6kmmq21ixw::::res://Plant/T_MZRa_Monstera_B02b_AO.png<>uid://bqqv8ek0c53b3::::res://Plant/T_MZRa_Monstera_B02b_R.png<>uid://cb253in0l854e::::res://Waering_C/WateringCan6.obj<>uid://bi22rik6cgksj::::res://Waering_C/WateringCan6Albedo.png<>uid://di1wed76or7jp::::res://Waering_C/WateringCan6AO.png<>uid://dl3y0pst0r5w8::::res://Waering_C/WateringCan6Metal.png<>uid://cev5uvwfkea2h::::res://Waering_C/WateringCan6Normal.png<>uid://bbtvk6hujn1t5::::res://Waering_C/WateringCan6Rough.png<>res://WateringPlant.gd<>uid://dbym7pugptjga::::res://Waering_C/water-pouring-out-of-bucket-96841 (mp3cut.net).mp3
 material_034_ao.jpg::CompressedTexture2D::7808030333172922840::1696506886::1696505407::1::::<><>::
 material_034_diffuseOriginal.jpg::CompressedTexture2D::3511207105469863332::1696506876::1696506924::1::::<><>::
 Paper_ambientOcclusion.png::CompressedTexture2D::7589201726715313355::1697978532::1697978578::1::::<><>::
@@ -34,14 +34,15 @@ Paper_basecolor.png::CompressedTexture2D::1569255672832000588::1697978536::16979
 Paper_roughness.png::CompressedTexture2D::9208951356481147755::1697978527::1697978563::1::::<><>::
 Plaster_02_bump.jpg::CompressedTexture2D::3703117643788793710::1696494611::1696494749::1::::<><>::
 Plaster_02_diffuse.jpg::CompressedTexture2D::6543354316590648966::1696494611::1696494892::1::::<><>::
-Player.gd::GDScript::-1::1698515531::0::1::::<>CharacterBody3D<>::
+Player.gd::GDScript::-1::1701285643::0::1::::<>CharacterBody3D<>::
 RadioAnimation.gd::GDScript::-1::1698599014::0::1::::<>MeshInstance3D<>::
 RDeltaa.obj::Mesh::4805902354815565014::1696451747::1696452422::1::::<><>::
 README.md::TextFile::-1::1700164122::0::1::::<><>::
-Second_Scene.tscn::PackedScene::1598073036888055875::1700155887::0::1::::<><>::uid://c7231ulssckht::::res://door1.obj<>uid://c7gxqc5ajt22i::::res://doorway_bay.obj<>uid://dbpyxf6nyx648::::res://House/wall_bay.obj<>uid://be1fa8x3dal::::res://House/wall_window_1.obj<>uid://bbuh40sr6q855::::res://House/bay_roof.obj<>uid://bqjj2jum6c1mi::::res://House/bay_roof_2.obj<>uid://eqqtuqvb50j0::::res://House/bay_roof_3.obj<>uid://qqs62eb75cw6::::res://House/wall_window_3.obj<>uid://poctk3ulmprw::::res://House/wall_window_4.obj<>uid://folptvnplcga::::res://House/wall_window_5.obj<>uid://cyipb1esq3nvm::::res://House/window_bay_1.obj<>uid://dst2m851fdlgo::::res://House/wall_window_8.obj<>uid://bdof30pb5b5r4::::res://House/wall_window_6.obj<>uid://chdkxlfoe2jlv::::res://House/wall_window_tall_1.obj<>uid://dytq1a27jptua::::res://House/window_bay_2.obj<>uid://dpbj3k8i41pl6::::res://House/window_bay_5.obj<>uid://db0l2ikjcb62r::::res://House/window_bay_7.obj
+WateringPlant.gd::GDScript::-1::1701720803::0::1::::<>AnimationPlayer<>::
+Second_Scene.tscn::PackedScene::1598073036888055875::1701725984::0::1::::<><>::uid://c7231ulssckht::::res://door1.obj<>uid://c7gxqc5ajt22i::::res://doorway_bay.obj<>uid://dbpyxf6nyx648::::res://House/wall_bay.obj<>uid://be1fa8x3dal::::res://House/wall_window_1.obj<>uid://bbuh40sr6q855::::res://House/bay_roof.obj<>uid://bqjj2jum6c1mi::::res://House/bay_roof_2.obj<>uid://eqqtuqvb50j0::::res://House/bay_roof_3.obj<>uid://qqs62eb75cw6::::res://House/wall_window_3.obj<>uid://poctk3ulmprw::::res://House/wall_window_4.obj<>uid://folptvnplcga::::res://House/wall_window_5.obj<>uid://cyipb1esq3nvm::::res://House/window_bay_1.obj<>uid://dst2m851fdlgo::::res://House/wall_window_8.obj<>uid://bdof30pb5b5r4::::res://House/wall_window_6.obj<>uid://chdkxlfoe2jlv::::res://House/wall_window_tall_1.obj<>uid://dytq1a27jptua::::res://House/window_bay_2.obj<>uid://dpbj3k8i41pl6::::res://House/window_bay_5.obj<>uid://db0l2ikjcb62r::::res://House/window_bay_7.obj
 sofa_obj.obj::Mesh::6974711523844250147::1696499782::1696499783::1::::<><>::
 sweater_alutaroma_roughness.png::CompressedTexture2D::5580489636434891242::1696501228::1696501277::1::::<><>::
-SwitchLight.gd::GDScript::-1::1698525431::0::1::::<>Node3D<>::
+SwitchLight.gd::GDScript::-1::1701106894::0::1::::<>Node3D<>::
 TexturesCom_Paint_Chipped_512_albedo.jpg::CompressedTexture2D::6913857059184783307::1696443605::1696443822::1::::<><>::
 TexturesCom_Paint_Chipped_512_roughness.jpg::CompressedTexture2D::1489518101458298531::1696443605::1696443845::1::::<><>::
 TexturesCom_Wood_ParquetFiveFinger_512_roughness.jpg::CompressedTexture2D::9045013515183218285::1696355902::1696355904::1::::<><>::
@@ -51,10 +52,12 @@ uploads_files_2031829_abciuppa_sideboards_006.obj::Mesh::8786088900689459692::16
 uploads_files_2135479_picture+frame+01.obj::Mesh::1009833844369312195::1697979873::1698407988::1::::<><>::
 uploads_files_2870715_Book+1+OBJ.obj::Mesh::4914141614219208811::1696499558::1698408020::1::::<><>::
 uploads_files_3334414_door.obj::Mesh::5282907221247643638::1698438559::1698438560::1::::<><>::
+uploads_files_3726421_Areca+Palm+obj.obj::Mesh::1499410481634755911::1701716137::1701716138::1::::<><>::
 uploads_files_4140627_koltuk1.obj::Mesh::7461211062171144649::1696497271::1696497273::1::::<><>::
+uploads_files_4271974_MZRa_Monstera_B02.obj::Mesh::260738827188294292::1701716325::1701716326::1::::<><>::
 Vintage-Door.obj::Mesh::8659254095243031001::1697975605::1697975606::1::::<><>::
 wall panel.obj::Mesh::799547183440863939::1697979330::1698407988::1::::<><>::
-WindowAnimation.gd::GDScript::-1::1700155769::0::1::::<>Node3D<>::
+WindowAnimation.gd::GDScript::-1::1701106605::0::1::::<>Node3D<>::
 woman 1.jpg::CompressedTexture2D::4231473312523696801::1697980037::1698407988::1::::<><>::
 woman 2.jpg::CompressedTexture2D::8101880644647111791::1697980037::1698407988::1::::<><>::
 woman 3.jpg::CompressedTexture2D::4891842614445471523::1697980037::1698407988::1::::<><>::
@@ -70,8 +73,15 @@ page 1.jpg::CompressedTexture2D::2829192099608011812::1698576075::1698576125::1:
 page 4.jpg::CompressedTexture2D::7552838494943768157::1698576075::1698576144::1::::<><>::
 page 5.jpg::CompressedTexture2D::1958577692368351503::1698576075::1698576168::1::::<><>::
 page 6.jpg::CompressedTexture2D::2131870587789562729::1698576075::1698576161::1::::<><>::
-::res://Audio/::1698596993
+::res://Audio/::1701714312
+concrete-footsteps-1-6265 (mp3cut.net).mp3::AudioStreamMP3::6553517532505009648::1701107709::1701107721::1::::<><>::
+dorm-door-opening-6038 (mp3cut.net).mp3::AudioStreamMP3::8307275179998762572::1701101448::1701101461::1::::<><>::
+gentle-gust-108966.mp3::AudioStreamMP3::896808554223829412::1701105666::1701105666::1::::<><>::
 guitar.mp3::AudioStreamMP3::3891998366115283478::1698596971::1698596993::1::::<><>::
+light-switch-156813.mp3::AudioStreamMP3::3540379271779644248::1701106776::1701106776::1::::<><>::
+mais-objetos-caindo-na-madeira-38917.mp3::AudioStreamMP3::4855833374262102646::1701104257::1701104258::1::::<><>::
+opening-window-107097.mp3::AudioStreamMP3::7675777312671902958::1701106380::1701106380::1::::<><>::
+soft-ambience-of-street-from-interior-terraced-street-leeds-uk-autumn-22607.mp3::AudioStreamMP3::8063519735450492528::1701101796::1701101796::1::::<><>::
 ::res://House/::1698583554
 bay_roof.obj::Mesh::2498375231089665966::1698498799::1698498799::1::::<><>::
 bay_roof_2.obj::Mesh::3528616755251487752::1698498912::1698498912::1::::<><>::
@@ -98,9 +108,33 @@ window_bay_2.obj::Mesh::8884035421421298876::1698499817::1698499818::1::::<><>::
 window_bay_5.obj::Mesh::8214756115183407921::1698499881::1698499881::1::::<><>::
 window_bay_7.obj::Mesh::7281776877971206123::1698501144::1698501145::1::::<><>::
 ::res://interaction/::1698423885
+::res://Plant/::1701717191
+T_MZRa_Monstera_B02a_BC.png::CompressedTexture2D::4799932287092927541::1701716770::1701716894::1::::<><>::
+T_MZRa_Monstera_B02a_M.png::CompressedTexture2D::8452538542661875109::1701716770::1701716804::1::::<><>::
+T_MZRa_Monstera_B02a_N.png::CompressedTexture2D::8066845015125584380::1701716770::1701716827::1::::<><>::
+T_MZRa_Monstera_B02a_O.png::CompressedTexture2D::9099791994537657905::1701716770::1701717089::1::::<><>::
+T_MZRa_Monstera_B02a_ORM.png::CompressedTexture2D::4323908971006643373::1701716770::1701716814::1::::<><>::
+T_MZRa_Monstera_B02a_R.png::CompressedTexture2D::2971119939656151773::1701716770::1701717071::1::::<><>::
+T_MZRa_Monstera_B02b_AO.png::CompressedTexture2D::1366454429730255812::1701716770::1701716946::1::::<><>::
+T_MZRa_Monstera_B02b_BC.png::CompressedTexture2D::3567964310583397809::1701716770::1701716820::1::::<><>::
+T_MZRa_Monstera_B02b_M.png::CompressedTexture2D::8207066717659428198::1701716770::1701716806::1::::<><>::
+T_MZRa_Monstera_B02b_N.png::CompressedTexture2D::8987065674053950774::1701716770::1701716811::1::::<><>::
+T_MZRa_Monstera_B02b_ORM.png::CompressedTexture2D::1780108186840397050::1701716770::1701716827::1::::<><>::
+T_MZRa_Monstera_B02b_R.png::CompressedTexture2D::3543806440694747486::1701716770::1701717054::1::::<><>::
 ::res://Textures/::1698517260
 r.jpg::::-1::0::0::0::::<><>::
 Stone2_b.jpg::::-1::0::0::0::::<><>::
 Stone2_d.jpg::CompressedTexture2D::2980284170358436019::1698516667::1698516743::1::::<><>::
 Stone2_n.jpg::CompressedTexture2D::2274608532312201576::1698516667::1698516791::1::::<><>::
 Stone2_r.jpg::::-1::0::0::0::::<><>::
+::res://Waering_C/::1701725948
+paper-flutter-5933 (mp3cut.net).mp3::AudioStreamMP3::4466905442991008535::1701725559::1701725559::1::::<><>::
+paper-flutter.mp3::AudioStreamMP3::3749497894077785523::1701725948::1701725948::1::::<><>::
+water-pouring-out-of-bucket-96841 (mp3cut.net).mp3::AudioStreamMP3::7279782529172679864::1701720635::1701720635::1::::<><>::
+WateringCan6.obj::Mesh::4900640363817356014::1701717279::1701717290::1::::<><>::
+WateringCan6Albedo.png::CompressedTexture2D::3005339786504315973::1701717299::1701717477::1::::<><>::
+WateringCan6AO.png::CompressedTexture2D::7775789747237302281::1701717299::1701717528::1::::<><>::
+WateringCan6Metal.png::CompressedTexture2D::7990644577439467389::1701717299::1701717512::1::::<><>::
+WateringCan6Normal.png::CompressedTexture2D::5098807037651427581::1701717299::1701717528::1::::<><>::
+WateringCan6Rough.png::CompressedTexture2D::2497127259404176452::1701717299::1701717543::1::::<><>::
+WateringCan6UVW.png::CompressedTexture2D::7164042092698336273::1701717299::1701717300::1::::<><>::

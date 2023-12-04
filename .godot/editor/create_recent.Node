@@ -1,7 +1,7 @@
 AudioStreamPlayer3D
+AnimationPlayer
 Timer
 Node3D
-AnimationPlayer
 AnimatableBody3D
 SpotLight3D
 Marker3D

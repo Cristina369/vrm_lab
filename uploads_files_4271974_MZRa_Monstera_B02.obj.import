@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyklh6vhgtce"
+path="res://.godot/imported/uploads_files_4271974_MZRa_Monstera_B02.obj-a86c63421ade33a757fceb0848bd9c4d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/uploads_files_4271974_MZRa_Monstera_B02.obj-a86c63421ade33a757fceb0848bd9c4d.mesh"]
+
+source_file="res://uploads_files_4271974_MZRa_Monstera_B02.obj"
+dest_files=["res://.godot/imported/uploads_files_4271974_MZRa_Monstera_B02.obj-a86c63421ade33a757fceb0848bd9c4d.mesh", "res://.godot/imported/uploads_files_4271974_MZRa_Monstera_B02.obj-a86c63421ade33a757fceb0848bd9c4d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

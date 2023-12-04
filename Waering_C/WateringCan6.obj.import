@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cb253in0l854e"
+path="res://.godot/imported/WateringCan6.obj-52f24f11bac064193f4010ca9de66c9d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/WateringCan6.obj-52f24f11bac064193f4010ca9de66c9d.mesh"]
+
+source_file="res://Waering_C/WateringCan6.obj"
+dest_files=["res://.godot/imported/WateringCan6.obj-52f24f11bac064193f4010ca9de66c9d.mesh", "res://.godot/imported/WateringCan6.obj-52f24f11bac064193f4010ca9de66c9d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
